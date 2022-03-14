@@ -1,2 +1,2 @@
-# todoList-React Native
+# TodoList-React Native
  A simple TodoList app using react Native
